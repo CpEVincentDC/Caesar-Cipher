@@ -1,6 +1,6 @@
 # Caesar-Cipher
 
-Learn String Manipulation by Building Caesar-Cipher (FREECODECAMP)
+Learn String Manipulation by Building Cipher (FREECODECAMP)
 
 # Python Fundamentals
 
