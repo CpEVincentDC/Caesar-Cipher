@@ -1,6 +1,4 @@
-# Caesar-Cipher
-
-Learn String Manipulation by Building Cipher (FREECODECAMP)
+# Learn String Manipulation by Building Cipher (FREECODECAMP)
 
 # Python Fundamentals
 
@@ -8,7 +6,7 @@ Learn String Manipulation by Building Cipher (FREECODECAMP)
 
 Python is a powerful and popular programming language widely used for data science, data visualization, web development, game development, machine learning and more.
 
-In this project, you'll learn fundamental programming concepts in Python, such as variables, functions, loops, and conditional statements. You'll use these to code your first programs.
+In this project, you'll learn fundamental programming concepts in Python, such as variables, functions, loops, and conditional statements. By building cipher program, you can manipulate the string. You'll use these to code your first programs.
 
 ## Getting Started
 
